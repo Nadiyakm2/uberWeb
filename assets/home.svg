@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Storefront (filled)</title>
+  <g transform="matrix(
+          1 0
+          0 1
+          2 12
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M 0 11 L 13 11 L 13 3 L 17 3 L 17 11 L 20 11 L 20 0 L 0 0 L 0 11 Z M 3 3 L 10 3 L 10 7 L 3 7 L 3 3 Z" fill="currentColor"/></g>,<g transform="matrix(
+          1 0
+          0 1
+          1 1
+        )"><path fill-rule="nonzero" clip-rule="nonzero" d="M 17.5 0 L 4.5 0 L 0 6 L 0 8 L 1 9 L 21 9 L 22 8 L 22 6 L 17.5 0 Z" fill="currentColor"/></g>
+</svg>
